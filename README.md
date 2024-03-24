@@ -9,7 +9,7 @@ A predictor with 50% accuracy and 80% recall (could detect 80% of churning) was 
 Half of Single Household Fiber Optic owners churn, almost 50% of all churners, campaigns aimed at these groups is a good idea
 
 
-<img src="findings.jpg" alt="Findings Summary" />
+<img src="findings.png" alt="Findings Summary" />
 
 # Source data
 https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
